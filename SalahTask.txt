@@ -1,0 +1,16 @@
+I programmed all the db Acccess and entity classes
+For 
+Customers, Agents, Agencies
+customers_rewards,rewards
+bookings, triptypes ,packages
+product , suppliers , product_suppliers 
+packages_products_suppliers
+
+I did also test my classes using the main prgramm where I create them
+I hand them out to James where he use them to create the RestService
+
+I programmed also a customer tab in the java application for Dbmaintenance where i have to help Alex finifhing his Application. 
+It was a nice experience for me where I have to program db Access class in Java. and do something in the Gui (front End) where I made a tab for customer
+with validation (validation functions in the class Validation) interacting directly with Rest to get Data from TravelExpertDb.
+It was very good working with James, Raman, Alex. I enjoyed working with all three of them.
+
